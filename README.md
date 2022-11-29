@@ -2,6 +2,7 @@
 
 ## Deep Fool - An Algorithm to Fool Deep Neural Networks and Evaluate Robustness
 
+### Logan Barnhart
 
 * #### images
    * Folder containing all used images in the writeup. Most notably 'binary_decision_boundary.jpg' is used to help visualize the algorithm
