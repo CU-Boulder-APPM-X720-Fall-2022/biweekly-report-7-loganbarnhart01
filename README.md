@@ -1,4 +1,4 @@
-# Deep Fool - An Algorithm to Fool Deep Neural Networks and Evaluate Robustness
+## Exploring Deep Fool - An Algorithm to Fool Deep Neural Networks and Evaluate Robustness
 
 ### Logan Barnhart
 
